@@ -126,7 +126,7 @@ class Ui_MainWindow(object):
         self.StarValue.setText(_translate("MainWindow", "1"))
         self.StartButton.setText(_translate("MainWindow", "Start"))
         self.fileButton.setText(_translate("MainWindow", "Выбрать папку"))
-        self.signatureButton.setText(_translate("MainWindow", "Выбрать папку"))
+        self.signatureButton.setText(_translate("MainWindow", "Выбрать файл"))
         self.outputButton.setText(_translate("MainWindow", "Выбрать папку"))
         self.okButton.setText(_translate("MainWindow", "OK"))
 
